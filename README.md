@@ -22,4 +22,4 @@ One of the most interesting parts of the project was visualizing the data and th
 In conclusion, working on this project gave me hands-on experience with a real-world machine learning application. It helped me improve both my technical skills and problem-solving abilities, and it was a valuable addition to my internship experience. I now feel more prepared to take on more complex machine learning challenges in the future.
 
 OUTPUT :
-![image]()
+![image](https://github.com/KasturiGhadi/MACHINE_LEARNING_MODEL_IMPLEMENTATION/blob/9ad1b5a2f05ad68765477c5afa85c29973b27cb6/Screenshot%202025-07-22%20203528Spam.png)
